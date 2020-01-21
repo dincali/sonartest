@@ -1,0 +1,6 @@
+<properties>
+  <sonar.projectKey>dincali_sonartest</sonar.projectKey>
+  <sonar.organization>dincali</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>e7624262ab1d4c0ed05dfca2df78926cf1bc353f</sonar.login>
+</properties>
